@@ -1,4 +1,9 @@
-jshintGruntTest
-===============
+## jshintGruntTest
 
 First peak at jshint loaded with grunt.
+
+# Install
+
+Just open terminal and type `npm install`.
+
+If that gives you an error, you probly need node-cli. You can install it by typing `npm install -g grunt-cli`.
