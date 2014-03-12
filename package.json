@@ -1,7 +1,8 @@
 {
   "name": "jshintGruntTest",
   "version": "0.1.0",
-  "repository": "https://github.com/mirovelk/firstGruntBoilerplate",
+  "repository": "https://github.com/mirovelk/jshintGruntTest",
+  "description": "First peak at jshint loaded with grunt.";
   "devDependencies": {
     "grunt": "latest",
     "grunt-cli": "latest",
