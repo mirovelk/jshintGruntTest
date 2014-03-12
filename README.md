@@ -1,8 +1,8 @@
-## jshintGruntTest
+# jshintGruntTest
 
 First peak at jshint loaded with grunt.
 
-# Install
+## Install
 
 Just open terminal and type `npm install`.
 
